@@ -49,3 +49,7 @@ Um dashboard interativo sobre filmes, construído com Streamlit, Pandas e Plotly
 - `src/`: Lógicas de processamento e análise de dados.
 - `data/`: Armazenamento local do CSV extraído da API.
 - `requirements.txt`: Lista de dependências do projeto.
+
+## Atribuição
+Este produto utiliza a API do [TMDb (The Movie Database)](https://www.themoviedb.org/), mas não é endossado ou certificado pelo TMDb.
+
